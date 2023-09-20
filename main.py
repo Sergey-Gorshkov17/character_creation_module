@@ -1,5 +1,5 @@
 from random import randint
-# проверка отправки
+
 
 from graphic_arts.start_game_banner import run_screensaver
 
